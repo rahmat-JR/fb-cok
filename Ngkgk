@@ -1,7 +1,6 @@
 #!/usr/bin/python3 
 #coding=utf-8 
  
-""" 
 import json, os, re, time, sys 
 from concurrent.futures import ThreadPoolExecutor as Bool 
 from random import choice as ah_memeq_basah 
